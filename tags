@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+FILE_MODE	first/ourhd.h	5;"	d	language:C++
+QuickSort	secnod/op.c	/^void QuickSort(int *arr, int low, int high)$/;"	f	language:C	signature:(int *arr, int low, int high)
+QuickSort	third/ave.c	/^void QuickSort(int *arr, int low, int high)$/;"	f	language:C	signature:(int *arr, int low, int high)
+Results	secnod/func.h	/^}Results;$/;"	t	language:C++	typeref:struct:__anon1
+UNUMBER	secnod/func.h	12;"	d	language:C++
+average	secnod/func.h	/^	double average;$/;"	m	language:C++	struct:__anon1
+buf1	first/main.c	/^char buf1[] = "abcdefghij";$/;"	v	language:C
+buf2	first/main.c	/^char buf2[] = "ABCDEFGHIJ";$/;"	v	language:C
+compar	secnod/op.c	/^int compar(const void *a, const void *b) {$/;"	f	language:C	signature:(const void *a, const void *b)
+compar	third/ave.c	/^int compar(const void *a, const void *b) {$/;"	f	language:C	signature:(const void *a, const void *b)
+err_sys	first/err.c	/^void err_sys(const char * str) {$/;"	f	language:C	signature:(const char * str)
+main	first/main.c	/^int main() {$/;"	f	language:C
+main	secnod/main.c	/^int main(void) {$/;"	f	language:C	signature:(void)
+main	third/ave.c	/^int main() {$/;"	f	language:C
+max	secnod/func.h	/^	int max;$/;"	m	language:C++	struct:__anon1
+min	secnod/func.h	/^	int min;$/;"	m	language:C++	struct:__anon1
+readFile	secnod/op.c	/^void readFile(int rawArray[UNUMBER]) {$/;"	f	language:C	signature:(int rawArray[UNUMBER])
+stoiArray	secnod/op.c	/^void stoiArray(char * str, int length, int rawArray[UNUMBER]) {$/;"	f	language:C	signature:(char * str, int length, int rawArray[UNUMBER])
+sum	secnod/count.c	/^int sum = 0;$/;"	v	language:C
+sum	secnod/func.h	/^	int sum;$/;"	m	language:C++	struct:__anon1
+uave	secnod/count.c	/^double uave(int * myArr) {$/;"	f	language:C	signature:(int * myArr)
+uoperator	secnod/count.c	/^Results uoperator(int * myArr) {$/;"	f	language:C	signature:(int * myArr)
+urand	secnod/rand.c	/^void urand(void) {$/;"	f	language:C	signature:(void)
+usum	secnod/count.c	/^int usum(int * myArr) {$/;"	f	language:C	signature:(int * myArr)
